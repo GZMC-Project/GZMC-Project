@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GZMC-Project
-- I am a project created by ... (@Mezzorek)
+- I am a project created by ... @Mezzorek
 - 🌱 Discord ... (dc.gzmc.pl)
 - 💞️ IP ... (GZMC.PL)
 - 📫 How to be in administration ... (dc.gzmc.pl)
